@@ -1,4 +1,4 @@
-backend not yet done , this uses mangodb
+backend almost done , this uses mangodb
 
 for mysql version, see -> [this](https://github.com/aquaticcalf/backend-miniproject-mysql/)
 
