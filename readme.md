@@ -7,20 +7,20 @@ for mysql version, see -> [this](https://github.com/aquaticcalf/backend-miniproj
     - [x] login
     - [x] register
     - [ ] refresh token
-- [ ] posts
-    - [ ] get all posts `/posts/`
-    - [ ] get a perticular post `/posts/:postid`
-    - [ ] create a new post `/posts/new`
-    - [ ] search for a post `/posts/search?title=&tags=,`
+- [x] posts
+    - [x] get all posts `/posts/`
+    - [x] get a perticular post `/posts/:postid`
+    - [x] create a new post `/posts/new`
+    - [x] search for a post `/posts/search?title=&tags=,`
     - [ ] edit post ??
-- [ ] comments
-    - [ ] get all comments for a perticular post `GET /comment/:postid`
-    - [ ] create new comment under a post `POST /comment/:postid`
+- [x] comments
+    - [x] get all comments for a perticular post `GET /comment/:postid`
+    - [x] create new comment under a post `POST /comment/:postid`
     - [ ] edit comment ??
-- [ ] profiles
-    - [ ] self profile `/profile/`
-    - [ ] others profile `/profile/:username`
-        - [ ] posts made by them
-        - [ ] comments made by them
+- [x] profiles
+    - [x] self profile `/profile/`
+    - [x] others profile `/profile/:username`
+        - [x] posts made by them
+        - [x] comments made by them
         - [ ] follow ?? 
         - [ ] edit profile ??

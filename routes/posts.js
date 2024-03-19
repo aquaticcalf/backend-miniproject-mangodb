@@ -95,3 +95,5 @@ router.get('/search', async (request, response) => {
         response.status(500).json({ message: 'error' })
     }
 })
+
+module.exports = router
